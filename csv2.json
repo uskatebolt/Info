@@ -1,0 +1,382 @@
+[
+{
+    "GeoAreaName": "Nigeria",
+    "Value": 4971
+  },
+  {
+    "GeoAreaName": "Oman",
+    "Value": 4341
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "Value": 3915
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "Value": 3860
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "Value": 3380
+  },
+  {
+    "GeoAreaName": "Bolivia",
+    "Value": 3148
+  },
+  {
+    "GeoAreaName": "Iraq",
+    "Value": 3143	
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "Value": 3018
+  },
+  {
+    "GeoAreaName": "Cameroon",
+    "Value": 2954
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "Value": 2879
+  },
+  {
+    "GeoAreaName": "Greece",
+    "Value": 2770
+  },
+  {
+    "GeoAreaName": "Uzbekistan",
+    "Value": 2636
+  },
+  {
+    "GeoAreaName": "Guinea",
+    "Value": 2374
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "Value": 2255
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "Value": 2221
+  },
+  {
+    "GeoAreaName": "Bosnia",
+    "Value": 2218
+  },
+  {
+    "GeoAreaName": "Senegal",
+    "Value": 2189
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "Value": 2100
+  },
+  {
+    "GeoAreaName": "Ivory-Coast",
+    "Value": 1912
+  },
+  {
+    "GeoAreaName": "Cuba",
+    "Value": 1830
+  },
+  {
+    "GeoAreaName": "Sudan",
+    "Value": 1818
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "Value": 1802
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "Value": 1758
+  },
+  {
+    "GeoAreaName": "Macedonia",
+    "Value": 1723	
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "Value": 1511
+  },
+  {
+    "GeoAreaName": "New-Zealand",
+    "Value": 1497
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "Value": 1477
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "Value": 1464
+  },
+  {
+    "GeoAreaName": "Guatemala",
+    "Value": 1342
+  },
+  {
+    "GeoAreaName": "Djibouti",
+    "Value": 1284
+  },
+  {
+    "GeoAreaName": "DRC",
+    "Value": 1242
+  },
+  {
+    "GeoAreaName": "Somalia",
+    "Value": 1219
+  },
+  {
+    "GeoAreaName": "Mayotte",
+    "Value": 1143
+  },
+  {
+    "GeoAreaName": "EL-Salvador",
+    "Value": 1112
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "Value": 1082
+  },
+  {
+    "GeoAreaName": "Hong Kong",
+    "Value": 1052
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "Value": 1032	
+  },
+  {
+    "GeoAreaName": "Gabon",
+    "Value": 1004
+  },
+  {
+    "GeoAreaName": "Maldives",
+    "Value": 968
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "Value": 962
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "Value": 925
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "Value": 907
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "Value": 907
+  },
+  {
+    "GeoAreaName": "Albania",
+    "Value": 898
+  },
+  {
+    "GeoAreaName": "Lebanon",
+    "Value": 886
+  },
+  {
+    "GeoAreaName": "Niger",
+    "Value": 860
+  },
+  {
+    "GeoAreaName": "Guinea-Bissau",
+    "Value": 836
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "Value": 830
+  },
+  {
+    "GeoAreaName": "Mali",
+    "Value": 779
+  },
+  {
+    "GeoAreaName": "Burkina Faso",
+    "Value": 773
+  },
+  {
+    "GeoAreaName": "Andorra",
+    "Value": 761
+  },
+  {
+    "GeoAreaName": "Kenya",
+    "Value": 758
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "Value": 754	
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "Value": 718
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "Value": 667
+  },
+  {
+    "GeoAreaName": "Zambia",
+    "Value": 654
+  },
+  {
+    "GeoAreaName": "San Marino",
+    "Value": 648
+  },
+  {
+    "GeoAreaName": "Jordan",
+    "Value": 586
+  },
+  {
+    "GeoAreaName": "Channel Islands",
+    "Value": 548
+  },
+  {
+    "GeoAreaName": "Equitorial Guinea",
+    "Value": 522
+  },
+  {
+    "GeoAreaName": "Malta",
+    "Value": 522
+  },
+  {
+    "GeoAreaName": "Tanzania",
+    "Value": 509
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "Value": 509
+  },
+  {
+    "GeoAreaName": "Venezuela",
+    "Value": 440
+  },
+  {
+    "GeoAreaName": "Taiwan",
+    "Value": 440
+  },
+  {
+    "GeoAreaName": "Reunion",
+    "Value": 439
+  },
+  {
+    "GeoAreaName": "Sierra Leone",
+    "Value": 408
+  },
+  {
+    "GeoAreaName": "Chad",
+    "Value": 399
+  },
+  {
+    "GeoAreaName": "Palestine",
+    "Value": 375
+  },
+  {
+    "GeoAreaName": "Benin",
+    "Value": 339
+  },
+  {
+    "GeoAreaName": "Congo",
+    "Value": 333
+  },
+  {
+    "GeoAreaName": "Isle of Man",
+    "Value": 332
+  },
+  {
+    "GeoAreaName": "Mauritius",
+    "Value": 332
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "Value": 324
+  },
+  {
+    "GeoAreaName": "Cabo Verde",
+    "Value": 315
+  },
+  {
+    "GeoAreaName": "Vietnam",
+    "Value": 288
+  },
+  {
+    "GeoAreaName": "Rwanda",
+    "Value": 287
+  },
+  {
+    "GeoAreaName": "Ethiopia",
+    "Value": 272
+  },
+  {
+    "GeoAreaName": "Nepal",
+    "Value": 246
+  },
+  {
+    "GeoAreaName": "Togo",
+    "Value": 238
+  },
+  {
+    "GeoAreaName": "Haiti",
+    "Value": 234
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "Value": 230
+  },
+  {
+    "GeoAreaName": "Sao Tome",
+    "Value": 220
+  },
+  {
+    "GeoAreaName": "Liberia",
+    "Value": 215
+  },
+  {
+    "GeoAreaName": "South Sudan",
+    "Value": 203
+  },
+  {
+    "GeoAreaName": "Martinique",
+    "Value": 189
+  },
+  {
+    "GeoAreaName": "Eswatini",
+    "Value": 187
+  },
+  {
+    "GeoAreaName": "Faeroe Island",
+    "Value": 187
+  },
+  {
+    "GeoAreaName": "Myanmar",
+    "Value": 181
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "Value": 160
+  },
+  {
+    "GeoAreaName": "Guadeloupe",
+    "Value": 155
+  },
+  {
+    "GeoAreaName": "French Guiana",
+    "Value": 153
+  },
+  {
+    "GeoAreaName": "Gibraltar",
+    "Value": 147
+  },
+  {
+    "GeoAreaName": "CAR",
+    "Value": 143
+  },
+  {
+    "GeoAreaName": "Brunei",
+    "Value": 141
+  }
+  ]
